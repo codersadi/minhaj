@@ -1,0 +1,499 @@
+/* Extra small devices*/
+@media(max-width:479px) {
+    .navbar-light .navbar-nav .nav-link {
+        text-align: center;
+    }
+
+    .navbar-light .navbar-nav .nav-link::after {
+        width: 9%;
+    }
+
+    .navbar-nav {
+        background: #03072a;
+    }
+
+    .navbar-light .navbar-toggler {
+        background: #fff;
+    }
+
+    .banner_content h2 {
+        font-size: 20px;
+    }
+
+    .banner_content p {
+        font-size: 13px;
+        margin-top: 20px;
+        margin-bottom: 35px;
+    }
+
+    #banner_part {
+        padding: 85px 0px 40px 0px;
+    }
+
+    #download_part {
+        padding: 25px 0px;
+    }
+
+    .mycard ul li {
+        float: none;
+        display: inline;
+        margin-right: 5px;
+    }
+
+    .mycard ul {
+        margin: 30px auto;
+    }
+
+    .slider_bottom_text h6 {
+        font-size: 12px;
+    }
+
+    .slider_bottom_text h4 {
+        font-size: 17px;
+        margin: 0px;
+        padding-bottom: 15px;
+    }
+
+    .banner_content a {
+        font-size: 12px;
+        padding: 10px 30px;
+    }
+
+    .smpr {
+        padding-right: 0px;
+    }
+
+    .active_slider_text h3 {
+        margin: 0px 0px 0px 0px;
+        font-size: 16px;
+    }
+
+    .active_slider_text {
+        padding: 40px 0px;
+    }
+
+    .active_slider_text h6 {
+        margin: 0px;
+        margin-top: 15px;
+    }
+
+    .slick-dots {
+        left: 36%;
+    }
+
+    .sadi_card {
+        text-align: center;
+    }
+
+    .footer_top_middle_content {
+        margin-top: 50px;
+    }
+
+    .footer_top_right_content {
+        margin-top: 50px;
+    }
+
+    #work_part {
+        padding: 50px 0px;
+    }
+
+    .project_content img {
+        height: 250px;
+    }
+
+    .project_part {
+        padding-bottom: 50px;
+    }
+
+    #team_part {
+        padding-bottom: 50px;
+    }
+
+    .active_slider_bg {
+        margin-bottom: 50px;
+    }
+
+    .slider_bottom_text a {
+        padding: 10px 40px;
+        font-size: 12px;
+    }
+
+    .active_slider_img img {
+        height: 250px;
+    }
+
+    .slick-dots {
+        bottom: 0%;
+    }
+
+    .card-text {
+        padding: 0px 0px 0px 0px;
+        text-align: justify;
+    }
+
+
+}
+
+
+
+/* Extra small devices (portrait phones, less than 576px)*/
+@media(min-width:480px) and (max-width:575.98px) {
+    .navbar-light .navbar-nav .nav-link {
+        text-align: center;
+    }
+
+    .navbar-light .navbar-nav .nav-link::after {
+        width: 9%;
+    }
+
+    .navbar-nav {
+        background: #03072a;
+    }
+
+    .navbar-light .navbar-toggler {
+        background: #fff;
+    }
+
+    .banner_content h2 {
+        font-size: 38px;
+    }
+
+    #banner_part {
+        padding: 110px 0px 70px 0px;
+    }
+
+    #download_part {
+        padding: 50px 0px;
+    }
+
+    .footer_top_middle_content ul {
+        margin: 0 auto;
+    }
+
+    .footer_top_right_content p {
+        padding: 0px 80px 0px 80px;
+    }
+
+
+    .smpr {
+        padding-right: 0px;
+    }
+
+    .active_slider_text h3 {
+        margin: 0px 100px 0px 105px;
+        font-size: 20px;
+    }
+
+    .active_slider_text {
+        padding: 40px 0px;
+    }
+
+    .active_slider_text h6 {
+        margin: 18px 0px 0px 87px;
+    }
+
+    .slick-dots {
+        left: 36%;
+    }
+
+    .sadi_card {
+        text-align: center;
+    }
+
+    .footer_top_middle_content {
+        margin-top: 50px;
+    }
+
+    .footer_top_right_content {
+        margin-top: 50px;
+    }
+
+    #work_part {
+        padding: 50px 0px;
+    }
+
+    .mycard ul {
+        margin: 30px auto;
+    }
+
+    .mycard ul li {
+        float: none;
+        display: inline;
+        margin-right: 5px;
+    }
+
+    .project_part {
+        padding-bottom: 50px;
+    }
+
+    #team_part {
+        padding-bottom: 50px;
+    }
+
+    .active_slider_bg {
+        margin-bottom: 50px;
+    }
+
+    .slider_bottom_text a {
+        padding: 10px 40px;
+    }
+
+    .active_slider_img img {
+        height: 250px;
+    }
+
+    .slick-dots {
+        bottom: 0%;
+    }
+
+    .card-text {
+        padding: 0px 0px 0px 0px;
+        text-align: justify;
+    }
+
+
+}
+
+
+
+
+/* Small devices (landscape phones, 576px and up)*/
+@media(min-width:576px) and (max-width:767.98px) {
+    .navbar-light .navbar-nav .nav-link {
+        text-align: center;
+    }
+
+    .navbar-light .navbar-nav .nav-link::after {
+        width: 9%;
+    }
+
+    .navbar-nav {
+        background: #03072a;
+    }
+
+    .navbar-light .navbar-toggler {
+        background: #fff;
+    }
+
+    .banner_content h2 {
+        font-size: 38px;
+    }
+
+    #banner_part {
+        padding: 110px 0px 70px 0px;
+    }
+
+    #download_part {
+        padding: 70px 0px;
+    }
+
+    #team_part {
+        padding-bottom: 70px;
+    }
+
+    .footer_top_right_content p {
+        padding: 0px 80px 0px 80px;
+    }
+
+
+    .smpr {
+        padding-right: 0px;
+    }
+
+    .active_slider_text h3 {
+        margin: 0px;
+        font-size: 23px;
+    }
+
+    .active_slider_text h6 {
+        margin: 0px;
+        padding-bottom: 20px;
+        text-align: center;
+    }
+
+    .slick-dots {
+        left: 36%;
+        bottom: 0%;
+    }
+
+    .sadi_card {
+        text-align: center;
+    }
+
+    .mycard ul {
+        margin-left: 35px;
+    }
+
+    .footer_top_middle_content {
+        margin-top: 50px;
+    }
+
+    .footer_top_right_content {
+        margin-top: 50px;
+    }
+
+    .hammad {
+        margin-top: 0px;
+    }
+
+    .sm_landscap {
+        margin-top: 50px;
+    }
+
+    .project_content img {
+        height: 270px;
+    }
+
+    #work_part {
+        padding: 70px 0px;
+    }
+
+    .project_part {
+        padding-bottom: 70px;
+    }
+
+    .active_slider_img img {
+        height: 340px;
+    }
+
+    .active_slider_text {
+        padding: 30px 0px;
+    }
+
+
+}
+
+
+
+/* Medium devices (tablets, 768px and up)*/
+@media(min-width:768px) and (max-width:991.98px) {
+    .navbar-light .navbar-nav .nav-link {
+        text-align: center;
+    }
+
+    .navbar-light .navbar-nav .nav-link::after {
+        width: 9%;
+    }
+
+    .navbar-nav {
+        background: #03072a;
+    }
+
+    .navbar-light .navbar-toggler {
+        background: #fff;
+    }
+
+    .banner_content h2 {
+        font-size: 45px;
+    }
+
+    #banner_part {
+        padding: 145px 0px 115px 0px;
+    }
+
+    .sadi_card {
+        text-align: center;
+    }
+
+    .mycard ul {
+        margin-left: 32px;
+    }
+
+    #download_part {
+        padding: 100px 0px;
+    }
+
+    .footer_top_middle_content ul {
+        margin-left: 20px;
+    }
+
+    .active_slider_text h3 {
+        margin: 0px 40px 0px 40px;
+        font-size: 20px;
+    }
+
+    .active_slider_img img {
+        height: 391px;
+    }
+
+    .slick-dots {
+        left: 38%;
+        bottom: 5%;
+    }
+
+    .hammad {
+        margin-top: 0px;
+    }
+
+    .md_ex {
+        margin-top: 70px;
+    }
+
+    .active_slider_text {
+        padding: 90px 0px;
+    }
+
+
+
+
+}
+
+
+
+
+
+/* Large devices (desktops, 992px and up)*/
+@media(min-width:992px) and (max-width:1199.98px) {
+    .banner_content h2 {
+        font-size: 55px;
+    }
+
+    #banner_part {
+        padding: 200px 0px 155px 0px;
+    }
+
+    .project_content img {
+        height: 245px;
+    }
+
+    .active_slider_text h3 {
+        font-size: 26px;
+    }
+
+    .hammad {
+        margin-top: 0px;
+    }
+
+    .extra_hammad {
+        margin-top: 70px;
+    }
+
+    #download_part {
+        padding: 100px 0px;
+    }
+
+
+}
+
+
+
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media(min-width: 1200px) {
+    .active_slider_img img {
+        height: 487px;
+    }
+
+    .hammad {
+        margin-top: 0px;
+    }
+
+    .extra_hammad {
+        margin-top: 70px;
+    }
+
+    #download_part {
+        padding: 100px 0px;
+    }
+
+}
